@@ -1,5 +1,5 @@
 {
-    "name": "toastnz/externallinks",
+    "name": "nzricky/externallinks",
     "description": "Module which tracks external broken links in SilverStripe CMS page content field and HTMLText field in toast blocks",
     "type": "silverstripe-vendormodule",
     "keywords": [
